@@ -1,0 +1,8 @@
+.single-country{
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+.single-country img{
+    width: 150px;
+}
